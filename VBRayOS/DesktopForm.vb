@@ -112,4 +112,46 @@ Public Class DesktopForm
         AddHandler recycleIcon.Click, AddressOf RecycleIcon_Click
         desktopArea.Controls.Add(recycleIcon)
     End Sub
+
+    Private Sub UpdateClock()
+        clockLabel.Text = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")
+        clockLabel.Location = New Point(taskbar.Width - clockLabel.Width - 10, 
+                                       (taskbar.Height - clockLabel.Height) \ 2)
+    End Sub
+
+    Private Sub clockTimer_Tick(sender As Object, e As EventArgs) Handles clockTimer.Tick
+        UpdateClock()
+    End Sub
+
+    Private Sub StartButton_Click(sender As Object, e As EventArgs)
+        Dim result As DialogResult = MessageBox.Show("VBRayOS를 종료하시겠습니까?", "시작 메뉴", 
+                                                     MessageBoxButtons.YesNo, MessageBoxIcon.Question)
+        If result = DialogResult.Yes Then
+            Application.Exit()
+        End If
+    End Sub
+
+    Private Sub MyComputerIcon_Click(sender As Object, e As EventArgs)
+        MessageBox.Show("내 컴퓨터가 실행되었습니다.", "내 컴퓨터", MessageBoxButtons.OK, MessageBoxIcon.Information)
+    End Sub
+
+    Private Sub InternetIcon_Click(sender As Object, e As EventArgs)
+        Try
+            ' 기본 브라우저로 구글 열기
+            System.Diagnostics.Process.Start("https://www.google.com")
+        Catch ex As Exception
+            MessageBox.Show("브라우저를 실행할 수 없습니다: " & ex.Message, "오류", 
+                          MessageBoxButtons.OK, MessageBoxIcon.Error)
+        End Try
+    End Sub
+
+    Private Sub RecycleIcon_Click(sender As Object, e As EventArgs)
+        MessageBox.Show("휴지통이 실행되었습니다.", "휴지통", MessageBoxButtons.OK, MessageBoxIcon.Information)
+    End Sub
+
+    Private Sub DesktopForm_Resize(sender As Object, e As EventArgs) Handles Me.Resize
+        If clockLabel IsNot Nothing Then
+            UpdateClock()
+        End If
+    End Sub
 End Class
