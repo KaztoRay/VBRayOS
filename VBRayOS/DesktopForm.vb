@@ -132,7 +132,13 @@ Public Class DesktopForm
     End Sub
 
     Private Sub MyComputerIcon_Click(sender As Object, e As EventArgs)
-        MessageBox.Show("내 컴퓨터가 실행되었습니다.", "내 컴퓨터", MessageBoxButtons.OK, MessageBoxIcon.Information)
+        Try
+            Dim fileManager As New FileManagerForm()
+            fileManager.Show()
+        Catch ex As Exception
+            MessageBox.Show("내 컴퓨터를 실행할 수 없습니다: " & ex.Message, "오류", 
+                          MessageBoxButtons.OK, MessageBoxIcon.Error)
+        End Try
     End Sub
 
     Private Sub InternetIcon_Click(sender As Object, e As EventArgs)

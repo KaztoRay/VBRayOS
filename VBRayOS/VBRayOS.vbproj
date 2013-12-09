@@ -71,6 +71,9 @@
     <Compile Include="DesktopForm.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="FileManagerForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Resources.Designer.vb">
       <AutoGen>True</AutoGen>
