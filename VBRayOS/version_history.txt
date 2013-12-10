@@ -6,3 +6,4 @@
 - Implementation of core forms (Boot, Login, Desktop)
 - Basic file manager functionality
 // Commit 0: Fix window positioning and centering logic
+// Commit 1: Improve error handling in file operations
