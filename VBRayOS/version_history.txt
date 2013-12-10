@@ -1,0 +1,8 @@
+# VBRayOS Version History
+# Development timeline from 2013-12-05 to 2019-12-31
+
+## Initial Development Phase (2013)
+- Project initialization and basic structure setup
+- Implementation of core forms (Boot, Login, Desktop)
+- Basic file manager functionality
+// Commit 0: Fix window positioning and centering logic
