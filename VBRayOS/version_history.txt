@@ -8,3 +8,4 @@
 // Commit 0: Fix window positioning and centering logic
 // Commit 1: Improve error handling in file operations
 // Commit 2: Add keyboard shortcuts for navigation
+// Commit 3: Enhance UI responsiveness and performance
