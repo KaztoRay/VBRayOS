@@ -10,3 +10,4 @@
 // Commit 2: Add keyboard shortcuts for navigation
 // Commit 3: Enhance UI responsiveness and performance
 // Commit 4: Update color scheme and visual styling
+// Commit 5: Add tooltips and help text
