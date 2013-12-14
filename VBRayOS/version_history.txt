@@ -14,3 +14,4 @@
 // Commit 6: Optimize memory usage in file listings
 // Commit 7: Implement basic search functionality
 // Commit 8: Add right-click context menus
+// Commit 9: Improve font rendering and scaling
