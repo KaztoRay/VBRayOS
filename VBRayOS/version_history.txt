@@ -17,3 +17,4 @@
 // Commit 9: Improve font rendering and scaling
 // Commit 10: Fix memory leaks in timer operations
 // Commit 11: Add window resize handling
+// Commit 12: Enhance boot animation timing
