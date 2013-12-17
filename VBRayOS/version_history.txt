@@ -19,3 +19,4 @@
 // Commit 11: Add window resize handling
 // Commit 12: Enhance boot animation timing
 // Commit 13: Implement auto-save functionality
+// Commit 14: Add system tray integration
