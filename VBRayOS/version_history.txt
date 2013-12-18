@@ -21,3 +21,4 @@
 // Commit 13: Implement auto-save functionality
 // Commit 14: Add system tray integration
 // Commit 15: Improve exception handling
+// Commit 16: Update assembly version info
