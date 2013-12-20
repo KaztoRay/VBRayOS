@@ -25,3 +25,4 @@
 // Commit 17: Add logging and debugging features
 // Commit 18: Optimize startup performance
 // Commit 19: Fix UI threading issues
+// Commit 20: Add splash screen enhancements
