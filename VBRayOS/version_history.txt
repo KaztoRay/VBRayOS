@@ -28,3 +28,4 @@
 // Commit 20: Add splash screen enhancements
 // Commit 21: Implement window state persistence
 // Commit 22: Add keyboard navigation support
+// Commit 23: Enhance file type recognition
