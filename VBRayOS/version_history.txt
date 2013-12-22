@@ -30,3 +30,4 @@
 // Commit 22: Add keyboard navigation support
 // Commit 23: Enhance file type recognition
 // Commit 24: Improve accessibility features
+// Commit 25: Add internationalization support
