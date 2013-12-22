@@ -29,3 +29,4 @@
 // Commit 21: Implement window state persistence
 // Commit 22: Add keyboard navigation support
 // Commit 23: Enhance file type recognition
+// Commit 24: Improve accessibility features
