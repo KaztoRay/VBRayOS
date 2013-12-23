@@ -31,3 +31,4 @@
 // Commit 23: Enhance file type recognition
 // Commit 24: Improve accessibility features
 // Commit 25: Add internationalization support
+// Commit 26: Fix resource disposal issues
