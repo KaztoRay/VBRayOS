@@ -46,3 +46,4 @@
 // Commit 38: Implement advanced file operations
 // Commit 39: Enhance system integration
 // Commit 40: Fix window positioning and centering logic (iteration 2)
+// Commit 41: Improve error handling in file operations (iteration 2)
