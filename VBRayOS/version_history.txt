@@ -53,3 +53,4 @@
 // Commit 45: Add tooltips and help text (iteration 2)
 // Commit 46: Optimize memory usage in file listings (iteration 2)
 // Commit 47: Implement basic search functionality (iteration 2)
+// Commit 48: Add right-click context menus (iteration 2)
