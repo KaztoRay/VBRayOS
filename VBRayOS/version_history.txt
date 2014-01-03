@@ -54,3 +54,4 @@
 // Commit 46: Optimize memory usage in file listings (iteration 2)
 // Commit 47: Implement basic search functionality (iteration 2)
 // Commit 48: Add right-click context menus (iteration 2)
+// Commit 49: Improve font rendering and scaling (iteration 2)
