@@ -93,3 +93,4 @@
 // Commit 85: Add tooltips and help text (iteration 3)
 // Commit 86: Optimize memory usage in file listings (iteration 3)
 // Commit 87: Implement basic search functionality (iteration 3)
+// Commit 88: Add right-click context menus (iteration 3)
