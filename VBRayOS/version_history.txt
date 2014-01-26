@@ -99,3 +99,4 @@
 // Commit 91: Add window resize handling (iteration 3)
 // Commit 92: Enhance boot animation timing (iteration 3)
 // Commit 93: Implement auto-save functionality (iteration 3)
+// Commit 94: Add system tray integration (iteration 3)
