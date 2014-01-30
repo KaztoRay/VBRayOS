@@ -108,3 +108,4 @@
 // Commit 100: Add splash screen enhancements (iteration 3)
 // Commit 101: Implement window state persistence (iteration 3)
 // Commit 102: Add keyboard navigation support (iteration 3)
+// Commit 103: Enhance file type recognition (iteration 3)
