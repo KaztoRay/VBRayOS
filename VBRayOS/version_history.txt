@@ -128,3 +128,4 @@
 // Commit 120: Fix window positioning and centering logic (iteration 4)
 // Commit 121: Improve error handling in file operations (iteration 4)
 // Commit 122: Add keyboard shortcuts for navigation (iteration 4)
+// Commit 123: Enhance UI responsiveness and performance (iteration 4)
