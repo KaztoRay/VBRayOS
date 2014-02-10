@@ -130,3 +130,4 @@
 // Commit 122: Add keyboard shortcuts for navigation (iteration 4)
 // Commit 123: Enhance UI responsiveness and performance (iteration 4)
 // Commit 124: Update color scheme and visual styling (iteration 4)
+// Commit 125: Add tooltips and help text (iteration 4)
