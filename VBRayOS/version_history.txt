@@ -176,3 +176,4 @@
 // Commit 168: Add right-click context menus (iteration 5)
 // Commit 169: Improve font rendering and scaling (iteration 5)
 // Commit 170: Fix memory leaks in timer operations (iteration 5)
+// Commit 171: Add window resize handling (iteration 5)
