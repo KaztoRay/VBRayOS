@@ -182,3 +182,4 @@
 // Commit 174: Add system tray integration (iteration 5)
 // Commit 175: Improve exception handling (iteration 5)
 // Commit 176: Update assembly version info (iteration 5)
+// Commit 177: Add logging and debugging features (iteration 5)
