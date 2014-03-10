@@ -186,3 +186,4 @@
 // Commit 178: Optimize startup performance (iteration 5)
 // Commit 179: Fix UI threading issues (iteration 5)
 // Commit 180: Add splash screen enhancements (iteration 5)
+// Commit 181: Implement window state persistence (iteration 5)
