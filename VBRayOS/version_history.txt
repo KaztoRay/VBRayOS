@@ -188,3 +188,4 @@
 // Commit 180: Add splash screen enhancements (iteration 5)
 // Commit 181: Implement window state persistence (iteration 5)
 // Commit 182: Add keyboard navigation support (iteration 5)
+// Commit 183: Enhance file type recognition (iteration 5)
