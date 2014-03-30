@@ -226,3 +226,4 @@
 // Commit 218: Optimize startup performance (iteration 6)
 // Commit 219: Fix UI threading issues (iteration 6)
 // Commit 220: Add splash screen enhancements (iteration 6)
+// Commit 221: Implement window state persistence (iteration 6)
