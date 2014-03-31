@@ -227,3 +227,4 @@
 // Commit 219: Fix UI threading issues (iteration 6)
 // Commit 220: Add splash screen enhancements (iteration 6)
 // Commit 221: Implement window state persistence (iteration 6)
+// Commit 222: Add keyboard navigation support (iteration 6)
