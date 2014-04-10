@@ -247,3 +247,4 @@
 // Commit 239: Enhance system integration (iteration 6)
 // Commit 240: Fix window positioning and centering logic (iteration 7)
 // Commit 241: Improve error handling in file operations (iteration 7)
+// Commit 242: Add keyboard shortcuts for navigation (iteration 7)
