@@ -287,3 +287,4 @@
 // Commit 279: Enhance system integration (iteration 7)
 // Commit 280: Fix window positioning and centering logic (iteration 8)
 // Commit 281: Improve error handling in file operations (iteration 8)
+// Commit 282: Add keyboard shortcuts for navigation (iteration 8)
