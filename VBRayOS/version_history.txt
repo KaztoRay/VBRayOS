@@ -294,3 +294,4 @@
 // Commit 286: Optimize memory usage in file listings (iteration 8)
 // Commit 287: Implement basic search functionality (iteration 8)
 // Commit 288: Add right-click context menus (iteration 8)
+// Commit 289: Improve font rendering and scaling (iteration 8)
