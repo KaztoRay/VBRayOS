@@ -302,3 +302,4 @@
 // Commit 294: Add system tray integration (iteration 8)
 // Commit 295: Improve exception handling (iteration 8)
 // Commit 296: Update assembly version info (iteration 8)
+// Commit 297: Add logging and debugging features (iteration 8)
