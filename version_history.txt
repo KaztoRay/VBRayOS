@@ -28,3 +28,5 @@
 // Version: v0.1-alpha, Commit: 298
 // Development milestone: 2014-05-07 02:47:30
 // Version: v0.1-alpha, Commit: 306
+// Development milestone: 2014-05-08 02:47:30
+// Version: v0.1-alpha, Commit: 308
