@@ -310,3 +310,4 @@
 // Commit 302: Add keyboard navigation support (iteration 8)
 // Commit 303: Enhance file type recognition (iteration 8)
 // Commit 304: Improve accessibility features (iteration 8)
+// Commit 305: Add internationalization support (iteration 8)
