@@ -309,3 +309,4 @@
 // Commit 301: Implement window state persistence (iteration 8)
 // Commit 302: Add keyboard navigation support (iteration 8)
 // Commit 303: Enhance file type recognition (iteration 8)
+// Commit 304: Improve accessibility features (iteration 8)
