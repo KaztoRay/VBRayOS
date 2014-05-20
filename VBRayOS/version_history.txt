@@ -328,3 +328,4 @@
 // Commit 320: Fix window positioning and centering logic (iteration 9)
 // Commit 321: Improve error handling in file operations (iteration 9)
 // Commit 322: Add keyboard shortcuts for navigation (iteration 9)
+// Commit 323: Enhance UI responsiveness and performance (iteration 9)
