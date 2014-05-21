@@ -330,3 +330,4 @@
 // Commit 322: Add keyboard shortcuts for navigation (iteration 9)
 // Commit 323: Enhance UI responsiveness and performance (iteration 9)
 // Commit 324: Update color scheme and visual styling (iteration 9)
+// Commit 325: Add tooltips and help text (iteration 9)
