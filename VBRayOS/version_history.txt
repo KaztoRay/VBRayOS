@@ -340,3 +340,4 @@
 // Commit 332: Enhance boot animation timing (iteration 9)
 // Commit 333: Implement auto-save functionality (iteration 9)
 // Commit 334: Add system tray integration (iteration 9)
+// Commit 335: Improve exception handling (iteration 9)
