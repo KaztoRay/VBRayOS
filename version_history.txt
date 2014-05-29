@@ -24,3 +24,5 @@
 // Stage: Foundation | Version: v0.1-alpha | Commit: 217
 // Development milestone: 2014-05-09 19:55:54
 // Stage: Foundation | Version: v0.1-alpha | Commit: 221
+// Development milestone: 2014-05-30 04:21:54
+// Stage: Foundation | Version: v0.1-alpha | Commit: 250
