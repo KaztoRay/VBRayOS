@@ -367,3 +367,4 @@
 // Commit 359: Enhance system integration (iteration 9)
 // Commit 360: Fix window positioning and centering logic (iteration 10)
 // Commit 361: Improve error handling in file operations (iteration 10)
+// Commit 362: Add keyboard shortcuts for navigation (iteration 10)
