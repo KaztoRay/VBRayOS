@@ -373,3 +373,4 @@
 // Commit 365: Add tooltips and help text (iteration 10)
 // Commit 366: Optimize memory usage in file listings (iteration 10)
 // Commit 367: Implement basic search functionality (iteration 10)
+// Commit 368: Add right-click context menus (iteration 10)
