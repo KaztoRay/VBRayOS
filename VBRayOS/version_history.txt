@@ -381,3 +381,4 @@
 // Commit 373: Implement auto-save functionality (iteration 10)
 // Commit 374: Add system tray integration (iteration 10)
 // Commit 375: Improve exception handling (iteration 10)
+// Commit 376: Update assembly version info (iteration 10)
