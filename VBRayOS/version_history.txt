@@ -398,3 +398,4 @@
 // Commit 390: Update documentation and comments (iteration 10)
 // Commit 391: Add unit tests and validation (iteration 10)
 // Commit 392: Improve code organization (iteration 10)
+// Commit 393: Fix cross-platform compatibility (iteration 10)
