@@ -413,3 +413,4 @@
 // Commit 405: Add tooltips and help text (iteration 11)
 // Commit 406: Optimize memory usage in file listings (iteration 11)
 // Commit 407: Implement basic search functionality (iteration 11)
+// Commit 408: Add right-click context menus (iteration 11)
