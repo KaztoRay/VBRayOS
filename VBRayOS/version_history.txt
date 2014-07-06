@@ -422,3 +422,4 @@
 // Commit 414: Add system tray integration (iteration 11)
 // Commit 415: Improve exception handling (iteration 11)
 // Commit 416: Update assembly version info (iteration 11)
+// Commit 417: Add logging and debugging features (iteration 11)
