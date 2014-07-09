@@ -428,3 +428,4 @@
 // Commit 420: Add splash screen enhancements (iteration 11)
 // Commit 421: Implement window state persistence (iteration 11)
 // Commit 422: Add keyboard navigation support (iteration 11)
+// Commit 423: Enhance file type recognition (iteration 11)
