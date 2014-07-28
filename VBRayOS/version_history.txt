@@ -466,3 +466,4 @@
 // Commit 458: Optimize startup performance (iteration 12)
 // Commit 459: Fix UI threading issues (iteration 12)
 // Commit 460: Add splash screen enhancements (iteration 12)
+// Commit 461: Implement window state persistence (iteration 12)
