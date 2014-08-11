@@ -493,3 +493,4 @@
 // Commit 485: Add tooltips and help text (iteration 13)
 // Commit 486: Optimize memory usage in file listings (iteration 13)
 // Commit 487: Implement basic search functionality (iteration 13)
+// Commit 488: Add right-click context menus (iteration 13)
