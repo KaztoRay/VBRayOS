@@ -502,3 +502,4 @@
 // Commit 494: Add system tray integration (iteration 13)
 // Commit 495: Improve exception handling (iteration 13)
 // Commit 496: Update assembly version info (iteration 13)
+// Commit 497: Add logging and debugging features (iteration 13)
