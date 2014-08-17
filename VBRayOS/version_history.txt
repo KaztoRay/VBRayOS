@@ -506,3 +506,4 @@
 // Commit 498: Optimize startup performance (iteration 13)
 // Commit 499: Fix UI threading issues (iteration 13)
 // Commit 500: Add splash screen enhancements (iteration 13)
+// Commit 501: Implement window state persistence (iteration 13)
