@@ -508,3 +508,4 @@
 // Commit 500: Add splash screen enhancements (iteration 13)
 // Commit 501: Implement window state persistence (iteration 13)
 // Commit 502: Add keyboard navigation support (iteration 13)
+// Commit 503: Enhance file type recognition (iteration 13)
