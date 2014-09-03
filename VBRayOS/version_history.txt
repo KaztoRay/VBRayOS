@@ -540,3 +540,4 @@
 // Commit 532: Enhance boot animation timing (iteration 14)
 // Commit 533: Implement auto-save functionality (iteration 14)
 // Commit 534: Add system tray integration (iteration 14)
+// Commit 535: Improve exception handling (iteration 14)
