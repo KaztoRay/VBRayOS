@@ -541,3 +541,4 @@
 // Commit 533: Implement auto-save functionality (iteration 14)
 // Commit 534: Add system tray integration (iteration 14)
 // Commit 535: Improve exception handling (iteration 14)
+// Commit 536: Update assembly version info (iteration 14)
