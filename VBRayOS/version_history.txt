@@ -547,3 +547,4 @@
 // Commit 539: Fix UI threading issues (iteration 14)
 // Commit 540: Add splash screen enhancements (iteration 14)
 // Commit 541: Implement window state persistence (iteration 14)
+// Commit 542: Add keyboard navigation support (iteration 14)
