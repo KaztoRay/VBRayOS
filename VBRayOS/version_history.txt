@@ -570,3 +570,4 @@
 // Commit 562: Add keyboard shortcuts for navigation (iteration 15)
 // Commit 563: Enhance UI responsiveness and performance (iteration 15)
 // Commit 564: Update color scheme and visual styling (iteration 15)
+// Commit 565: Add tooltips and help text (iteration 15)
