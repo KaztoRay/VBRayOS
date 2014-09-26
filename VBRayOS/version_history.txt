@@ -585,3 +585,4 @@
 // Commit 577: Add logging and debugging features (iteration 15)
 // Commit 578: Optimize startup performance (iteration 15)
 // Commit 579: Fix UI threading issues (iteration 15)
+// Commit 580: Add splash screen enhancements (iteration 15)
