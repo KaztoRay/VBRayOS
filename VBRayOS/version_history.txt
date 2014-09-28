@@ -589,3 +589,4 @@
 // Commit 581: Implement window state persistence (iteration 15)
 // Commit 582: Add keyboard navigation support (iteration 15)
 // Commit 583: Enhance file type recognition (iteration 15)
+// Commit 584: Improve accessibility features (iteration 15)
