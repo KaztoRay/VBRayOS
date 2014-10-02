@@ -598,3 +598,4 @@
 // Commit 590: Update documentation and comments (iteration 15)
 // Commit 591: Add unit tests and validation (iteration 15)
 // Commit 592: Improve code organization (iteration 15)
+// Commit 593: Fix cross-platform compatibility (iteration 15)
