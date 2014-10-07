@@ -607,3 +607,4 @@
 // Commit 599: Enhance system integration (iteration 15)
 // Commit 600: Fix window positioning and centering logic (iteration 16)
 // Commit 601: Improve error handling in file operations (iteration 16)
+// Commit 602: Add keyboard shortcuts for navigation (iteration 16)
