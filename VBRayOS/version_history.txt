@@ -610,3 +610,4 @@
 // Commit 602: Add keyboard shortcuts for navigation (iteration 16)
 // Commit 603: Enhance UI responsiveness and performance (iteration 16)
 // Commit 604: Update color scheme and visual styling (iteration 16)
+// Commit 605: Add tooltips and help text (iteration 16)
