@@ -620,3 +620,4 @@
 // Commit 612: Enhance boot animation timing (iteration 16)
 // Commit 613: Implement auto-save functionality (iteration 16)
 // Commit 614: Add system tray integration (iteration 16)
+// Commit 615: Improve exception handling (iteration 16)
