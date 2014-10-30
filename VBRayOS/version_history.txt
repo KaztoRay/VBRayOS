@@ -653,3 +653,4 @@
 // Commit 645: Add tooltips and help text (iteration 17)
 // Commit 646: Optimize memory usage in file listings (iteration 17)
 // Commit 647: Implement basic search functionality (iteration 17)
+// Commit 648: Add right-click context menus (iteration 17)
