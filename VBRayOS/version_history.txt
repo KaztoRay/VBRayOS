@@ -662,3 +662,4 @@
 // Commit 654: Add system tray integration (iteration 17)
 // Commit 655: Improve exception handling (iteration 17)
 // Commit 656: Update assembly version info (iteration 17)
+// Commit 657: Add logging and debugging features (iteration 17)
