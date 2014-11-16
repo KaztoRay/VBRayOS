@@ -687,3 +687,4 @@
 // Commit 679: Enhance system integration (iteration 17)
 // Commit 680: Fix window positioning and centering logic (iteration 18)
 // Commit 681: Improve error handling in file operations (iteration 18)
+// Commit 682: Add keyboard shortcuts for navigation (iteration 18)
