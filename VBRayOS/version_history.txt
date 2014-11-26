@@ -708,3 +708,4 @@
 // Commit 700: Add splash screen enhancements (iteration 18)
 // Commit 701: Implement window state persistence (iteration 18)
 // Commit 702: Add keyboard navigation support (iteration 18)
+// Commit 703: Enhance file type recognition (iteration 18)
