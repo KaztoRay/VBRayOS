@@ -727,3 +727,4 @@
 // Commit 719: Enhance system integration (iteration 18)
 // Commit 720: Fix window positioning and centering logic (iteration 19)
 // Commit 721: Improve error handling in file operations (iteration 19)
+// Commit 722: Add keyboard shortcuts for navigation (iteration 19)
