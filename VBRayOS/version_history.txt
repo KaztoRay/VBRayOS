@@ -742,3 +742,4 @@
 // Commit 734: Add system tray integration (iteration 19)
 // Commit 735: Improve exception handling (iteration 19)
 // Commit 736: Update assembly version info (iteration 19)
+// Commit 737: Add logging and debugging features (iteration 19)
