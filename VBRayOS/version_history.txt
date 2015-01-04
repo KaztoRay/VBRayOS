@@ -786,3 +786,4 @@
 // Commit 778: Optimize startup performance (iteration 20)
 // Commit 779: Fix UI threading issues (iteration 20)
 // Commit 780: Add splash screen enhancements (iteration 20)
+// Commit 781: Implement window state persistence (iteration 20)
