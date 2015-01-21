@@ -819,3 +819,4 @@
 // Commit 811: Add window resize handling (iteration 21)
 // Commit 812: Enhance boot animation timing (iteration 21)
 // Commit 813: Implement auto-save functionality (iteration 21)
+// Commit 814: Add system tray integration (iteration 21)
