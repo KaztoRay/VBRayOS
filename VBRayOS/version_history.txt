@@ -822,3 +822,4 @@
 // Commit 814: Add system tray integration (iteration 21)
 // Commit 815: Improve exception handling (iteration 21)
 // Commit 816: Update assembly version info (iteration 21)
+// Commit 817: Add logging and debugging features (iteration 21)
