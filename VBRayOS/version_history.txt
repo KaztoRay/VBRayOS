@@ -831,3 +831,4 @@
 // Commit 823: Enhance file type recognition (iteration 21)
 // Commit 824: Improve accessibility features (iteration 21)
 // Commit 825: Add internationalization support (iteration 21)
+// Commit 826: Fix resource disposal issues (iteration 21)
