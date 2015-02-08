@@ -856,3 +856,4 @@
 // Commit 848: Add right-click context menus (iteration 22)
 // Commit 849: Improve font rendering and scaling (iteration 22)
 // Commit 850: Fix memory leaks in timer operations (iteration 22)
+// Commit 851: Add window resize handling (iteration 22)
