@@ -860,3 +860,4 @@
 // Commit 852: Enhance boot animation timing (iteration 22)
 // Commit 853: Implement auto-save functionality (iteration 22)
 // Commit 854: Add system tray integration (iteration 22)
+// Commit 855: Improve exception handling (iteration 22)
