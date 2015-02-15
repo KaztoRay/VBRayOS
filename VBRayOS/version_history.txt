@@ -869,3 +869,4 @@
 // Commit 861: Implement window state persistence (iteration 22)
 // Commit 862: Add keyboard navigation support (iteration 22)
 // Commit 863: Enhance file type recognition (iteration 22)
+// Commit 864: Improve accessibility features (iteration 22)
