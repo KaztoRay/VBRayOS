@@ -930,3 +930,4 @@
 // Commit 922: Add keyboard shortcuts for navigation (iteration 24)
 // Commit 923: Enhance UI responsiveness and performance (iteration 24)
 // Commit 924: Update color scheme and visual styling (iteration 24)
+// Commit 925: Add tooltips and help text (iteration 24)
