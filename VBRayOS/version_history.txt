@@ -933,3 +933,4 @@
 // Commit 925: Add tooltips and help text (iteration 24)
 // Commit 926: Optimize memory usage in file listings (iteration 24)
 // Commit 927: Implement basic search functionality (iteration 24)
+// Commit 928: Add right-click context menus (iteration 24)
