@@ -941,3 +941,4 @@
 // Commit 933: Implement auto-save functionality (iteration 24)
 // Commit 934: Add system tray integration (iteration 24)
 // Commit 935: Improve exception handling (iteration 24)
+// Commit 936: Update assembly version info (iteration 24)
