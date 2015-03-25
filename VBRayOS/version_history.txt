@@ -946,3 +946,4 @@
 // Commit 938: Optimize startup performance (iteration 24)
 // Commit 939: Fix UI threading issues (iteration 24)
 // Commit 940: Add splash screen enhancements (iteration 24)
+// Commit 941: Implement window state persistence (iteration 24)
