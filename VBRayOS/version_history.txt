@@ -965,3 +965,4 @@
 // Commit 957: Add backup and restore features (iteration 24)
 // Commit 958: Implement advanced file operations (iteration 24)
 // Commit 959: Enhance system integration (iteration 24)
+// Commit 960: Fix window positioning and centering logic (iteration 25)
