@@ -967,3 +967,4 @@
 // Commit 959: Enhance system integration (iteration 24)
 // Commit 960: Fix window positioning and centering logic (iteration 25)
 // Commit 961: Improve error handling in file operations (iteration 25)
+// Commit 962: Add keyboard shortcuts for navigation (iteration 25)
