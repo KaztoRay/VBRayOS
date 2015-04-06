@@ -970,3 +970,4 @@
 // Commit 962: Add keyboard shortcuts for navigation (iteration 25)
 // Commit 963: Enhance UI responsiveness and performance (iteration 25)
 // Commit 964: Update color scheme and visual styling (iteration 25)
+// Commit 965: Add tooltips and help text (iteration 25)
