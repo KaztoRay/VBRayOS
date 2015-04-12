@@ -981,3 +981,4 @@
 // Commit 973: Implement auto-save functionality (iteration 25)
 // Commit 974: Add system tray integration (iteration 25)
 // Commit 975: Improve exception handling (iteration 25)
+// Commit 976: Update assembly version info (iteration 25)
