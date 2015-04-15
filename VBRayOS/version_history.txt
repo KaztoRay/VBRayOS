@@ -988,3 +988,4 @@
 // Commit 980: Add splash screen enhancements (iteration 25)
 // Commit 981: Implement window state persistence (iteration 25)
 // Commit 982: Add keyboard navigation support (iteration 25)
+// Commit 983: Enhance file type recognition (iteration 25)
