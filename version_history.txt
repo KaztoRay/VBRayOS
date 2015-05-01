@@ -116,3 +116,5 @@
 // Version: v1.0-beta, Commit: 975
 // Development milestone: 2015-04-28 02:47:30
 // Version: v1.0-beta, Commit: 1018
+// Development milestone: 2015-05-01 18:47:30
+// Version: v1.0-beta, Commit: 1025
