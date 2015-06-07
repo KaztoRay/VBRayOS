@@ -1093,3 +1093,4 @@
 // Commit 1085: Add tooltips and help text (iteration 28)
 // Commit 1086: Optimize memory usage in file listings (iteration 28)
 // Commit 1087: Implement basic search functionality (iteration 28)
+// Commit 1088: Add right-click context menus (iteration 28)
