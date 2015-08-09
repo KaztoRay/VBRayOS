@@ -1220,3 +1220,4 @@
 // Commit 1212: Enhance boot animation timing (iteration 31)
 // Commit 1213: Implement auto-save functionality (iteration 31)
 // Commit 1214: Add system tray integration (iteration 31)
+// Commit 1215: Improve exception handling (iteration 31)
