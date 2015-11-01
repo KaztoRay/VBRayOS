@@ -1387,3 +1387,4 @@
 // Commit 1379: Fix UI threading issues (iteration 35)
 // Commit 1380: Add splash screen enhancements (iteration 35)
 // Commit 1381: Implement window state persistence (iteration 35)
+// Commit 1382: Add keyboard navigation support (iteration 35)
