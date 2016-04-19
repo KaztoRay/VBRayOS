@@ -1727,3 +1727,4 @@
 // Commit 1719: Enhance system integration (iteration 43)
 // Commit 1720: Fix window positioning and centering logic (iteration 44)
 // Commit 1721: Improve error handling in file operations (iteration 44)
+// Commit 1722: Add keyboard shortcuts for navigation (iteration 44)
