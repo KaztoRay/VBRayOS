@@ -1733,3 +1733,4 @@
 // Commit 1725: Add tooltips and help text (iteration 44)
 // Commit 1726: Optimize memory usage in file listings (iteration 44)
 // Commit 1727: Implement basic search functionality (iteration 44)
+// Commit 1728: Add right-click context menus (iteration 44)
