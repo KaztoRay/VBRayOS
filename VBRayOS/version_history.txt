@@ -1813,3 +1813,4 @@
 // Commit 1805: Add tooltips and help text (iteration 46)
 // Commit 1806: Optimize memory usage in file listings (iteration 46)
 // Commit 1807: Implement basic search functionality (iteration 46)
+// Commit 1808: Add right-click context menus (iteration 46)
