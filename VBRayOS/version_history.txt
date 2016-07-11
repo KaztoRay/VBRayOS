@@ -1893,3 +1893,4 @@
 // Commit 1885: Add tooltips and help text (iteration 48)
 // Commit 1886: Optimize memory usage in file listings (iteration 48)
 // Commit 1887: Implement basic search functionality (iteration 48)
+// Commit 1888: Add right-click context menus (iteration 48)
