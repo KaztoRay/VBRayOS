@@ -1948,3 +1948,4 @@
 // Commit 1940: Add splash screen enhancements (iteration 49)
 // Commit 1941: Implement window state persistence (iteration 49)
 // Commit 1942: Add keyboard navigation support (iteration 49)
+// Commit 1943: Enhance file type recognition (iteration 49)
