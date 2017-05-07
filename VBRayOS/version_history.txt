@@ -2493,3 +2493,4 @@
 // Commit 2485: Add tooltips and help text (iteration 63)
 // Commit 2486: Optimize memory usage in file listings (iteration 63)
 // Commit 2487: Implement basic search functionality (iteration 63)
+// Commit 2488: Add right-click context menus (iteration 63)
