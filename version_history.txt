@@ -338,3 +338,5 @@
 // Version: v2.0-rc, Commit: 2542
 // Development milestone: 2017-06-09 18:47:30
 // Version: v2.0-rc, Commit: 2565
+// Development milestone: 2017-06-10 02:47:30
+// Version: v2.0-rc, Commit: 2566
