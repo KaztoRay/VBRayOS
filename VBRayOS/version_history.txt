@@ -2946,3 +2946,4 @@
 // Commit 2938: Optimize startup performance (iteration 74)
 // Commit 2939: Fix UI threading issues (iteration 74)
 // Commit 2940: Add splash screen enhancements (iteration 74)
+// Commit 2941: Implement window state persistence (iteration 74)
