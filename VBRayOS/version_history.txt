@@ -2970,3 +2970,4 @@
 // Commit 2962: Add keyboard shortcuts for navigation (iteration 75)
 // Commit 2963: Enhance UI responsiveness and performance (iteration 75)
 // Commit 2964: Update color scheme and visual styling (iteration 75)
+// Commit 2965: Add tooltips and help text (iteration 75)
