@@ -3087,3 +3087,4 @@
 // Commit 3079: Enhance system integration (iteration 77)
 // Commit 3080: Fix window positioning and centering logic (iteration 78)
 // Commit 3081: Improve error handling in file operations (iteration 78)
+// Commit 3082: Add keyboard shortcuts for navigation (iteration 78)
