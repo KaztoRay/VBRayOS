@@ -3296,3 +3296,4 @@
 // Commit 3288: Add right-click context menus (iteration 83)
 // Commit 3289: Improve font rendering and scaling (iteration 83)
 // Commit 3290: Fix memory leaks in timer operations (iteration 83)
+// Commit 3291: Add window resize handling (iteration 83)
