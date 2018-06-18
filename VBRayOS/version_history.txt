@@ -3308,3 +3308,4 @@
 // Commit 3300: Add splash screen enhancements (iteration 83)
 // Commit 3301: Implement window state persistence (iteration 83)
 // Commit 3302: Add keyboard navigation support (iteration 83)
+// Commit 3303: Enhance file type recognition (iteration 83)
