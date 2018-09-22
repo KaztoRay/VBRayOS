@@ -3499,3 +3499,4 @@
 // Commit 3491: Add window resize handling (iteration 88)
 // Commit 3492: Enhance boot animation timing (iteration 88)
 // Commit 3493: Implement auto-save functionality (iteration 88)
+// Commit 3494: Add system tray integration (iteration 88)
