@@ -3527,3 +3527,4 @@
 // Commit 3519: Enhance system integration (iteration 88)
 // Commit 3520: Fix window positioning and centering logic (iteration 89)
 // Commit 3521: Improve error handling in file operations (iteration 89)
+// Commit 3522: Add keyboard shortcuts for navigation (iteration 89)
