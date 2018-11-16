@@ -3610,3 +3610,4 @@
 // Commit 3602: Add keyboard shortcuts for navigation (iteration 91)
 // Commit 3603: Enhance UI responsiveness and performance (iteration 91)
 // Commit 3604: Update color scheme and visual styling (iteration 91)
+// Commit 3605: Add tooltips and help text (iteration 91)
