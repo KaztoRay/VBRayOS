@@ -3746,3 +3746,4 @@
 // Commit 3738: Optimize startup performance (iteration 94)
 // Commit 3739: Fix UI threading issues (iteration 94)
 // Commit 3740: Add splash screen enhancements (iteration 94)
+// Commit 3741: Implement window state persistence (iteration 94)
