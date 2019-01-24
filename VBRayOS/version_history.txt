@@ -3748,3 +3748,4 @@
 // Commit 3740: Add splash screen enhancements (iteration 94)
 // Commit 3741: Implement window state persistence (iteration 94)
 // Commit 3742: Add keyboard navigation support (iteration 94)
+// Commit 3743: Enhance file type recognition (iteration 94)
