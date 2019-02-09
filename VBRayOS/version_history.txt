@@ -3780,3 +3780,4 @@
 // Commit 3772: Enhance boot animation timing (iteration 95)
 // Commit 3773: Implement auto-save functionality (iteration 95)
 // Commit 3774: Add system tray integration (iteration 95)
+// Commit 3775: Improve exception handling (iteration 95)
