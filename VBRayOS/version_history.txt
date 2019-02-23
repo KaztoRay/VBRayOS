@@ -3807,3 +3807,4 @@
 // Commit 3799: Enhance system integration (iteration 95)
 // Commit 3800: Fix window positioning and centering logic (iteration 96)
 // Commit 3801: Improve error handling in file operations (iteration 96)
+// Commit 3802: Add keyboard shortcuts for navigation (iteration 96)
