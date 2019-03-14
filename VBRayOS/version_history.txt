@@ -3846,3 +3846,4 @@
 // Commit 3838: Implement advanced file operations (iteration 96)
 // Commit 3839: Enhance system integration (iteration 96)
 // Commit 3840: Fix window positioning and centering logic (iteration 97)
+// Commit 3841: Improve error handling in file operations (iteration 97)
