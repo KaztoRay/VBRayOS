@@ -3853,3 +3853,4 @@
 // Commit 3845: Add tooltips and help text (iteration 97)
 // Commit 3846: Optimize memory usage in file listings (iteration 97)
 // Commit 3847: Implement basic search functionality (iteration 97)
+// Commit 3848: Add right-click context menus (iteration 97)
