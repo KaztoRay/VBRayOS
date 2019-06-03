@@ -4007,3 +4007,4 @@
 // Commit 3999: Enhance system integration (iteration 100)
 // Commit 4000: Fix window positioning and centering logic (iteration 101)
 // Commit 4001: Improve error handling in file operations (iteration 101)
+// Commit 4002: Add keyboard shortcuts for navigation (iteration 101)
