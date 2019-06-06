@@ -4013,3 +4013,4 @@
 // Commit 4005: Add tooltips and help text (iteration 101)
 // Commit 4006: Optimize memory usage in file listings (iteration 101)
 // Commit 4007: Implement basic search functionality (iteration 101)
+// Commit 4008: Add right-click context menus (iteration 101)
