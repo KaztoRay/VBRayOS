@@ -4126,3 +4126,4 @@
 // Commit 4118: Implement advanced file operations (iteration 103)
 // Commit 4119: Enhance system integration (iteration 103)
 // Commit 4120: Fix window positioning and centering logic (iteration 104)
+// Commit 4121: Improve error handling in file operations (iteration 104)
