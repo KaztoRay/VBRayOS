@@ -47,6 +47,3 @@ VBRayOS/
 - 타겟 프레임워크: .NET Framework 4.7.2
 - 개발 기간: 2013년 12월 ~ 2019년 12월
 
-## 라이선스
-
-Copyright © VBRayOS Development Team 2013-2019
